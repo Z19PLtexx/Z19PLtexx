@@ -1,8 +1,8 @@
 
                    
                    
-                   If we fight..that the walls we built so high have fallen so low, fallen so low
-                        If we fight..that the walls we built so high have fallen so low...
+                         If we fight..that the walls we built so high have fallen so low, fallen so low
+                               If we fight..that the walls we built so high have fallen so low...
 
 
                         
