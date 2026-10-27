@@ -33,6 +33,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![Stats](https://profilyze.vercel.app/api/github/stats?user=2hjaito&theme=github-dark)
+
 ## Today's Weather Forecast in My Hometown
 
 
@@ -77,7 +79,7 @@ Sunny
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Z19PLtexx&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![Top languages](https://profilyze.vercel.app/api/github/languages?user=2hjaito&theme=github-dark)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Z19PLtexx&icon=0&color=0)](https://visitcount.itsvg.in)
