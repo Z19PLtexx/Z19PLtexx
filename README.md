@@ -41,7 +41,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Stats](https://profilyze.vercel.app/api/github/stats?user=2hjaito&theme=github-dark)
 
 ## Today's Weather Forecast in My Hometown
 
