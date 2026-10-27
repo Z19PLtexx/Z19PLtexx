@@ -85,3 +85,9 @@ Sunny
 [![](https://komarev.com/ghpvc/?username=Z19PLtexx&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+                           "...lạc lối trên mặt trăng 
+                                          anh lại đánh mất em 
+                                               tay chẳng nắm cứ biến mất 
+                                        những hồi ức ấy khó quên 
+                                                vậy thôi..."
