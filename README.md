@@ -1,3 +1,5 @@
+<a href="https://profilyze.vercel.app/?u=2hjaito&c=HcRBCsIwEEDRu_z1IG2hLuYYbsVFJUMz1SSSRBeW3l3wLd7OBx2Fd7OKMsVt8V4Q7iu68_AcUF7VmnWEvCRDyb7GfvFgFeFbSkLHQ4jofJ5OsxA8oYNQ_9uzodfb8QM"><img src="https://profilyze.vercel.app/api/banner?u=2hjaito&c=HcRBCsIwEEDRu_z1IG2hLuYYbsVFJUMz1SSSRBeW3l3wLd7OBx2Fd7OKMsVt8V4Q7iu68_AcUF7VmnWEvCRDyb7GfvFgFeFbSkLHQ4jofJ5OsxA8oYNQ_9uzodfb8QM" alt="Profile banner" width="100%" /></a>
+
 Закончилось, толком не начавшись.
 
 <img width="736" height="414" alt="87c69256af910c17ff94c122321a90d3" src="https://github.com/user-attachments/assets/8f2aacc3-9cf6-4107-aa3b-44c47f8d6b20" />
