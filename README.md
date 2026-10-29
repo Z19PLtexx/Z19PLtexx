@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2500&pause=1000&color=808080&center=true&vCenter=true&width=650&height=60&lines=Pham+Hoang+Phuc+Lam;Nicotine%E9%BB%83%E6%9E%97&repeat=false"
+    src="htps://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2500&pause=1000&color=808080&center=true&vCenter=true&width=650&height=60&lines=Pham+Hoang+Phuc+Lam;Nicotine%E9%BB%83%E6%9E%97&repeat=false"
     alt="Pham Hoang Phuc Lam | Nicotine黃林"
   />
 </div>
