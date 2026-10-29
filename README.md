@@ -9,6 +9,54 @@
                         
 <a href="htps://profilyze.vercel.app/?u=2hjaito&c=Hc_BboMwEATQX7Gm161laAzVnvMFvVY9kLIEJ8FGtpOCEP9embnM7Y1mwwtcEZ5JIhj1eOtcDiBcruANd-d7MOYoSTIIvpsEDO-uY_5yvUQQhgVsDWFYwfZD250wgm1Ta0vo3QQ2hAiuaoI8Evh7gyvqgRHyOhczy1IWjmKcnSjnVR5FzV28qzCoSaYQnSQNwgKuGqM_CSu4blvdEBL4ZPSJMARfiJvkS-ycT-9T8OXSH7g1hvAbHqGcfRuOYP_Z_wE"><img src="https://profilyze.vercel.app/api/banner?u=2hjaito&c=Hc_BboMwEATQX7Gm161laAzVnvMFvVY9kLIEJ8FGtpOCEP9embnM7Y1mwwtcEZ5JIhj1eOtcDiBcruANd-d7MOYoSTIIvpsEDO-uY_5yvUQQhgVsDWFYwfZD250wgm1Ta0vo3QQ2hAiuaoI8Evh7gyvqgRHyOhczy1IWjmKcnSjnVR5FzV28qzCoSaYQnSQNwgKuGqM_CSu4blvdEBL4ZPSJMARfiJvkS-ycT-9T8OXSH7g1hvAbHqGcfRuOYP_Z_wE" alt="Die in the park of memories. banner" width="100%" /></a>
 
+                                               
+<div align="center">
+
+### ♫ NOW PLAYING
+
+</div>
+
+<table align="center">
+<tr>
+<td width="38%" align="center">
+
+<img width="944" height="927" alt="vyllCL3EfJS-5q6_5b0qFAqnADRkGqrh6MBDU7FcQDZflITkVu-YphAQ0I27WMfLolmc7E0jVnODdaswTSWyx_nncAAWNPNMjve39bGqTBfHgk2zBSu6Uhe6sz72qFeZa019qSDQ59xUd8fheAlmHlze60bnL07zCakAKEL034GvJ6SYudDg3vu-2J9AUgpN" src="https://github.com/user-attachments/assets/d2363046-18fd-4491-b95b-905020b84952" />
+</td>
+<td width="62%">
+
+
+<h2>Thien Su Pha Le</h2>
+
+**福林HoangLam**
+
+`SINGLE • ANGEL • AESTHETIC`
+
+━━━━━━━━━━━━━━━━━━━━
+
+`01:24`　 ▰▰▰▰▰▰▱▱▱▱　 `03:58`
+
+<div align="center">
+
+⏮　 **▶**　 ⏭　 ↻
+
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`◉ ONLINE`　 `♫ MUSIC`　 `⌘ CREATIVITY`
+
+</div>
+
+---
+
+<div align="center">
+
+
+
+
                                                 Закончилось, толком не начавшись.
 
 <img width="603" height="450" alt="ebbbd40f19885f42bd521d72eb0c384b" src="https://github.com/user-attachments/assets/3efa41e0-b0f8-40f2-9627-c4095d101151" />
