@@ -57,7 +57,7 @@
 
 
 
-                                            Закончилось, толком не начавшись.
+                                         Закончилось, толком не начавшись.
 
 <img width="603" height="450" alt="ebbbd40f19885f42bd521d72eb0c384b" src="https://github.com/user-attachments/assets/3efa41e0-b0f8-40f2-9627-c4095d101151" />
 
